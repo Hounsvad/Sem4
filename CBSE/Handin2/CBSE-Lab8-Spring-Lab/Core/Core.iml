@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../Core/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../Core/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../Core">
+      <sourceFolder url="file://$MODULE_DIR$/../../Core/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Core/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Core/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Core/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-platform:natives-desktop:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-backend-lwjgl:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl:2.9.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-windows:2.9.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-linux:2.9.3" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl-platform:natives-osx:2.9.3" level="project" />
+    <orderEntry type="library" name="Maven: net.java.jinput:jinput:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: net.java.jutils:jutils:1.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-linux:2.0.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-windows:2.0.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: net.java.jinput:jinput-platform:natives-osx:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.lwjgl.lwjgl:lwjgl_util:2.9.3" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.jlayer:jlayer:1.0.1-gdx" level="project" />
+    <orderEntry type="library" name="Maven: org.jcraft:jorbis:0.0.17" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-box2d:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-box2d-platform:natives-desktop:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-freetype:1.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx-freetype-platform:natives-desktop:1.9.10" level="project" />
+    <orderEntry type="module" module-name="Common" />
+    <orderEntry type="module" module-name="Player" />
+    <orderEntry type="module" module-name="Enemy" />
+    <orderEntry type="module" module-name="Bullet" />
+    <orderEntry type="module" module-name="Collision" />
+    <orderEntry type="module" module-name="Asteroid" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.2.4.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.2.4.RELEASE" level="project" />
+  </component>
+</module>
